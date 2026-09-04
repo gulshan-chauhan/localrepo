@@ -1,2 +1,3 @@
 # This is my local md today is holiday
 # 1. git init > git status > git add . > git status > git commit -m "write anything" >(check git remote alredy connected {("git remote -v"))git status >create a repository in github copy url pase> git remote add origin url > git push -u origin main}/ bad m sirf push hi karna h .
+# Branch - git branch (check branch), git checkout -b 'new branch name'(create new branch),git branch -d'branch name'
